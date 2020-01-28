@@ -1,2 +1,2 @@
-# Prpgraming1
+# Programing1
 Repo for Eric's class
