@@ -1,0 +1,14 @@
+USE [DATEBASE_TWO]
+GO
+
+SELECT SUM(column3) FROM Table_2
+SELECT MIN(column3) FROM Table_2
+SELECT COUNT(column3) FROM Table_2
+SELECT CEILING(V1) FROM CreditCardData
+
+
+USE [DATEBASE_TWO]
+GO
+
+SELECT * FROM CreditCardData
+SELECT COUNT(*) FROM CreditCardData
